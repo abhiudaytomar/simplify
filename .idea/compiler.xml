@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bank-account-common" />
+        <module name="bank-account-service" />
+        <module name="finance-client" />
+        <module name="finance-common" />
+        <module name="finance-service" />
+        <module name="policy-client" />
+        <module name="policy-common" />
+        <module name="policy-service" />
+        <module name="simplifyHub" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bank-account-common" target="1.8" />
+      <module name="bank-account-parent" target="1.8" />
+      <module name="bank-account-service" target="1.8" />
+      <module name="finance-client" target="1.8" />
+      <module name="finance-common" target="1.8" />
+      <module name="finance-parent" target="1.8" />
+      <module name="finance-service" target="1.8" />
+      <module name="policy-client" target="1.8" />
+      <module name="policy-common" target="1.8" />
+      <module name="policy-parent" target="1.8" />
+      <module name="policy-service" target="1.8" />
+      <module name="simplifyHub" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

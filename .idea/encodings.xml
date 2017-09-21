@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/bitbucket/bank-account" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/bank-account/bank-account-common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/bank-account/bank-account-service" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/financeApi" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/financeApi/finance-client" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/financeApi/finance-common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/financeApi/finance-service" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/policyApi" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/policyApi/policy-client" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/policyApi/policy-common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/bitbucket/policyApi/policy-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.moveguides.common.api:request-tracking:1.3.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/moveguides/common/api/request-tracking/1.3.0.RELEASE/request-tracking-1.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/moveguides/common/api/request-tracking/1.3.0.RELEASE/request-tracking-1.3.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/moveguides/common/api/request-tracking/1.3.0.RELEASE/request-tracking-1.3.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

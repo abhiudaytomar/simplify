@@ -1,0 +1,48 @@
+server:
+    port: 8001
+    response.error:
+        include-exception-class: false
+        include-validation-error-details: false
+db:
+  host: localhost
+  port: 3306
+  schema: SimplifyHub
+  connection-params: "autoReconnect=true&useUnicode=true&characterEncoding=UTF-8"
+  username: "mgssluser"
+  password: "moveguides$dev"
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://${db.host}:${db.port}/${db.schema}?${db.connection-params}
+    username: ${db.username}
+    password: ${db.password}
+
+    hikari:
+      pool-name: db-conn-pool
+      maximum-pool-size: 20
+      idle-timeout: 80000
+      connection-timeout: 600000
+      auto-commit: false
+      leak-detection-threshold: 120000
+
+jpa:
+    #spring-boot defaults to open-session-in-view: true. Uncomment to override
+    #open-in-view: false
+    hibernate:
+      naming:
+        physical-strategy: "org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl"
+
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+        show_sql: false
+        format_sql: true
+        use_sql_comments: true
+        hbm2ddl.auto: none
+        auto_close_session: true
+        connection:
+          useUnicode: true
+          characterEncoding: UTF-8
+          charSet: UTF-8
+        generate_statistics: true

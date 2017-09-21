@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/bitbucket/bank-account/bank-account-common/bank-account-common.iml" filepath="$USER_HOME$/bitbucket/bank-account/bank-account-common/bank-account-common.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/bank-account/bank-account-parent.iml" filepath="$USER_HOME$/bitbucket/bank-account/bank-account-parent.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/bank-account/bank-account-service/bank-account-service.iml" filepath="$USER_HOME$/bitbucket/bank-account/bank-account-service/bank-account-service.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/financeApi/finance-client/finance-client.iml" filepath="$USER_HOME$/bitbucket/financeApi/finance-client/finance-client.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/financeApi/finance-common/finance-common.iml" filepath="$USER_HOME$/bitbucket/financeApi/finance-common/finance-common.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/financeApi/finance-parent.iml" filepath="$USER_HOME$/bitbucket/financeApi/finance-parent.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/financeApi/finance-service/finance-service.iml" filepath="$USER_HOME$/bitbucket/financeApi/finance-service/finance-service.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/policyApi/policy-client/policy-client.iml" filepath="$USER_HOME$/bitbucket/policyApi/policy-client/policy-client.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/policyApi/policy-common/policy-common.iml" filepath="$USER_HOME$/bitbucket/policyApi/policy-common/policy-common.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/policyApi/policy-parent.iml" filepath="$USER_HOME$/bitbucket/policyApi/policy-parent.iml" />
+      <module fileurl="file://$USER_HOME$/bitbucket/policyApi/policy-service/policy-service.iml" filepath="$USER_HOME$/bitbucket/policyApi/policy-service/policy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplifyHub.iml" filepath="$PROJECT_DIR$/simplifyHub.iml" />
+    </modules>
+  </component>
+</project>
